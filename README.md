@@ -6,3 +6,5 @@ o	3 are target variables (Shares, Popularity, Popularity_level)
 
 Dataset URL: https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
 
+Project Deployed at http://biasvariance.com/datamining
+
